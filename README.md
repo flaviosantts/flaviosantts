@@ -1,4 +1,7 @@
-
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Olá, Seja Muito Bem - Vindo ao meu Perfil do GitHub!!!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Flávio Santos&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+FLÁVIO+SANTOS;I'm+35+years+old;I+from+Brasil,+SP;I+study+systems+development+at+UNISA;Be+Welcome!+:%29)](https://git.io/typing-svg)
