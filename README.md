@@ -9,8 +9,8 @@ Olá, Seja Muito Bem - Vindo ao meu Perfil do GitHub!!!  <img src="https://media
 <h4 align="center">
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviosantts&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosantts&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviosantts&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosantts&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
