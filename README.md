@@ -1,18 +1,25 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá, Seja Muito Bem - Vindo ao meu Perfil do GitHub!!!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Olá, Seja Bem - vindo ao meu perfil do GitHub!!!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Flávio Santos&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+FLÁVIO+SANTOS;I'm+35+years+old;I+from+Brasil,+SP;I+study+systems+development+at+UNISA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+FLÁVIO+SANTOS;I'm+35+years+old;I+from+São+Paulo,+SP+BR;I+study+systems+development+at+UNISA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h4 align="center">
 <div>
   
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviosantts&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosantts&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosantts&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=flaviosantts&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=flaviosantts&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -83,7 +90,10 @@ Olá, Seja Muito Bem - Vindo ao meu Perfil do GitHub!!!  <img src="https://media
   
   
   
-  </div
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{flaviosantts}/count.svg" /></p> 
+<br></div>
   
  
  
